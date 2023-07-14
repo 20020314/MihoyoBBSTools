@@ -22,7 +22,7 @@ games:
     useragent: "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.1 Mobile/15E148 Safari/604.1"
     #配置签到用的ua 脚本会在后面自动加上miHoYoBBS/版本号 ,请复制的时候不要带miHoYoBBS/版本
     genshin: #原神自动签到
-      auto_checkin: true #控制是否启用签到，下面一致
+      auto_checkin: false #控制是否启用签到，下面一致
       black_list: [] #这里是不签到的账号，填入文本型数据 示例["114514","1919810"](也许你这边是和checkin_multi_list那块一样) 下面的一样
     honkai2: #崩坏2
       auto_checkin: false
