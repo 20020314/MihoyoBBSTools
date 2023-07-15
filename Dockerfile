@@ -4,6 +4,7 @@ LABEL maintainer="x.yangtze.river@gmail.com"
 
 ENV CRON_SIGNIN='30 9 * * *'
 ENV MULTI=FALSE
+ENV LANG C.UTF-8
 ENV TZ=Asia/Shanghai
 RUN sed -i 's/dl-cdn.alpinelinux.org/mirrors.tuna.tsinghua.edu.cn/g' /etc/apk/repositories \
 	&& apk add --no-cache tzdata
