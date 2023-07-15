@@ -1,7 +1,7 @@
 enable: true #这里控制整个config文件是否启用
 version: 9 #config的版本
 account:
-  cookie: "" #登入账号只需要修改这里就行了，下面会自动获取
+  cookie: "cookie_token_v2=v2_70r9HndaGJEEtUUzZiUdrr-RQ0PT4t7M-_cpE5SEmpQg9XP1c-LVJ6qbN2PclonurTXeDV7I2hONKOkq-zu6pxKMpGJOr3nR9uJCwvuiIk2v3_IbWqeo; account_mid_v2=03g96euuan_mhy; account_id_v2=9653419; ltoken_v2=v2_xDLNswMQiAAaoQDOHoMXd3imXNjV3G3kEaei-vGx5TB9Lb_rF6SkQp9-uVufjyV1-rcnt6oQBz6P3L-0ZLOx50BgGv1v_jMkhrSxalkdJrkM8_I=; ltmid_v2=03g96euuan_mhy; ltuid_v2=9653419; account_mid_v2=03g96euuan_mhy; account_id_v2=9653419; _MHYUUID=47734dac-50fa-4d8a-95d2-7a2f0c756e95; DEVICEFP_SEED_ID=826058343295a977; DEVICEFP_SEED_TIME=1689388361501; DEVICEFP=38d7ef4d99ef9; login_uid=9653419; login_ticket=9rSKbGgIQRcsFzuNQDFsNw7781UdrH7ZjPhS9ZpB" #登入账号只需要修改这里就行了，下面会自动获取
   login_ticket: ""
   stuid: ""
   stoken: ""
