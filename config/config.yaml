@@ -10,7 +10,7 @@ mihoyobbs:
   checkin: true #社区签到
   checkin_multi: true #多个社区签到，关闭后只签到大别野
   checkin_multi_list: #签到的社区列表 详情可以看config文件夹下面的readme
-    - 2
+    - 1
     - 5
   read_posts: true #看帖
   like_posts: true #点赞帖子
